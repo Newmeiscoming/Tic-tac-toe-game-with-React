@@ -1,0 +1,30 @@
+
+.App {
+
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    text-align: center;
+    background-color: #131A28;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+td{
+  border: 2px solid blue;
+  
+  color: #1CDBF5;
+  font-weight: bolder;
+  font-size:50px;
+  width: 150px;
+  height: 150px;
+  
+
+ 
+  
+}
+
+
+
+
